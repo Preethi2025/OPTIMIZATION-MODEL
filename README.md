@@ -38,3 +38,4 @@ Using the PuLP library, we created an LP problem, defined the decision variables
 Once executed, the script printed the optimal values of A and B along with the maximum profit.
 
 #ouput:
+<img width="978" height="107" alt="Image" src="https://github.com/user-attachments/assets/004ceede-f217-44a8-ac41-7fd738db9fb2" />
